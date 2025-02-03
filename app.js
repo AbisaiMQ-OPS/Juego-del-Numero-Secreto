@@ -51,6 +51,7 @@ function verificarIntento() {
 
 
 function limpiarCaja() {
+   // Limpiamos la caja del valor usuario
     document.querySelector('#valorUsuario').value = '';
 }
 
